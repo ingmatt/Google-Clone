@@ -1,0 +1,92 @@
+
+h5 {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.home-logo {
+  font-size: 160px;
+}
+
+.links {
+  margin: 15px;
+}
+
+.flex-container {
+  display: flex;
+  height: 500px;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: -260px;
+}
+
+.flex-container-searchbox {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.search-box {
+  width: 500px;
+  height: 50px;
+  margin-top: 5px;
+  border-radius: 20px;
+}
+
+.buttons {
+  padding: 10px;
+  border-radius: 4px;
+  display: inline-block;
+  text-align:center;
+  margin-left: 75px;
+}
+
+.search-button {
+  margin-left:10px;
+}
+
+
+.flex-container-searchbox-images {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.buttons-image {
+  padding: 10px;
+  border-radius: 4px;
+  display: inline-block;
+  text-align:center;
+  margin-top: 10px;
+  margin-left: 175px;
+}
+
+.toplogo {
+  margin: 50px;
+  margin-bottom: 10px;
+}
+
+.advanced-logo {
+  font-size: 50px;
+  margin: 0;
+  padding: 0;
+}
+
+.advanced-heading {
+  display: flex;
+  margin-bottom: 0;
+}
+
+.advanced-form {
+  margin-top: 0px;
+  margin: 50px;
+}
+
+.text-descriptions {
+  margin-top: 10px;
+}
+
+.textinput {
+  width: 400px;
+  margin: 12px;
+}
